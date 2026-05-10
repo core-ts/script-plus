@@ -1,6 +1,6 @@
 {
-  "name": "ui-script",
-  "version": "0.0.1",
+  "name": "script-plus",
+  "version": "0.0.2",
   "description": "Web utilities",
   "main": "./lib/index.js",
   "types": "./src/index.ts",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com/core-ts/ui-script"
+    "url": "git@github.com/core-ts/script-plus"
   },
   "keywords": [
     "web",
